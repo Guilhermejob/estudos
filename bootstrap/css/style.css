@@ -1,4 +1,36 @@
+/*Paleta de cores 
+#c3a995
+#ab947e
+#6f5e53
+#8a7968
+#593d3b
+*/
+
+.navbar{
+    background-color: #c3a995;
+
+}
+
+.quem-somos{
+    background-color: #ab947e;
+}
+
+
 .logo{
     margin: 20px;
     width: 80px;
+}
+
+.margin{
+    padding-top:40px;
+}
+
+.img{
+    width: 900px;
+    margin: 30px;
+}
+
+.imgProjeto{
+    width: 200px;
+    
 }
